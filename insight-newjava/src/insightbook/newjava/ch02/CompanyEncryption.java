@@ -1,5 +1,9 @@
 package insightbook.newjava.ch02;
 
+/**
+ * The source code of Practical Modern Java, Insight, 2020
+ * @author YoonKi Chang
+ */
 public interface CompanyEncryption {
 	/**
 	 * 파라미터 값을 표준 알고리즘으로 인코딩 한다.
